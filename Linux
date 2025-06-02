@@ -57,3 +57,5 @@ all a.cpp, input.txt, output.txt, .vscode file should be in similar folder
       }
     ]
   }
+
+run code : cursor in cpp ->  ctrl + shift + b 
